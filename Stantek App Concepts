@@ -1,0 +1,15 @@
+// Revision change for "Board Check" application for work
+// Last updated: 5/25/2023
+
+
+// Features: 
+1. Automated batch file to launch browser windows using local cached webpages; SWI, Insert Time, Pull Test, etc.
+2. Replace manual typing with JavaScript buttons for "START" and "STOP"
+3. Drop down menu to select "Work Orders" in queue which can be prioritized as "Direct Ship" or "Hot" as needed by Chuck/Mike
+4. RGB Timer/LED Ring or mounted Bulbs at work stations with light switches to indicate if Chuck/Mike should do 1st piece check or regular board check - use different color bulbs to indicate the different task
+5. Bonus #1 - LED interval countdown, (if "wait.time" =< 30 seconds then add another light to the ring, once full or 10 minutes pass, reminder is sent using app to Manager
+6. Auto-Report Generator (For when waiting longer than 5 minutes for Board Check //
+7. Web/Phone/Tablet App (Wrapper for embedded HTML5/CSS Webpage for Front-End) Back-End will be coded with Unity3D to implement plugins such as WordPress, Discord, and other ways to communicate more efficiently
+8. Bonus #2 - Tool Check Out/In feature utilizing QRC/Barcodes/NFC tags to signal using Bluetooth, the Operator and time the tool was checked out, Station or Department of use, simply scan the Tool to log in and out of the system
+
+// End unfinished "Features" list
